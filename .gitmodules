@@ -1,0 +1,6 @@
+[submodule "Lockwire Android"]
+	path = Lockwire Android
+	url = git@github.com:dw-ll/LockWire.git
+[submodule "lockwire-middleware"]
+	path = lockwire-middleware
+	url = git@github.com:CollingsKenny/lockwire-middleware.git
