@@ -4,3 +4,6 @@
 [submodule "lockwire-middleware"]
 	path = lockwire-middleware
 	url = git@github.com:CollingsKenny/lockwire-middleware.git
+[submodule "LockWire_Hardware"]
+	path = LockWire_Hardware
+	url = https://github.com/KyleORourke2/LockWire_Hardware.git
